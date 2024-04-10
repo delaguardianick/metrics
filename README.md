@@ -1,1 +1,1 @@
-# metrics
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=delaguardianick)](https://github.com/anuraghazra/github-readme-stats)
